@@ -25,4 +25,32 @@ Feel free to connect with me to discuss data analytics, AI, and sustainability p
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+<img align="left" alt="DataGrip" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-plain.svg" />   
+<img align="left" alt="Slack" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
+<img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />                                              
 <br />
+
+#
+
+### 📊 Stats
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mredshaw&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mredshaw&theme=gruvbox&border_radius=4.5) -->
+
+<details>
+ <summary><h3>👨‍💻 Michael's Professional Journey</h3></summary>
+   My journey began in the film industry, where my passion for storytelling took root. Transitioning into business operations, I discovered a profound interest in sustainability. I saw the potential of data and technology to revolutionize business practices and significantly improve our impact on the earth. This realization drove me to pursue a Master of Business Analytics.
+
+I found a perfect synergy between my love for stories and my technical expertise in data and AI. Leveraging Python, SQL, Tableau, and Machine Learning, I now craft data-driven solutions that drive both sustainability and financial success. My work spans various domains, from helping small businesses thrive to developing innovative tech solutions that improve lives.
+
+Today, I'm dedicated to using data, business insights, and AI to tell impactful stories and create meaningful change across diverse fields.
+
+<!---[website]: ---> https://mredshaw.com
