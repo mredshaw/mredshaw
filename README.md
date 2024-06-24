@@ -38,13 +38,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streaml
 <br />
 
 #
-
-### 📊 Stats
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mredshaw&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mredshaw&theme=gruvbox&border_radius=4.5) -->
-#
 <details>
  <summary><h3>👨‍💻 Michael's Professional Journey</h3></summary>
    My journey began in the film industry, where my passion for storytelling took root. Transitioning into business operations, I discovered a profound interest in sustainability. I saw the potential of data and technology to revolutionize business practices and significantly improve our impact on the earth. This realization drove me to pursue a Master of Business Analytics.
